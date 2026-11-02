@@ -1,0 +1,4 @@
+# Raw source sheets (148 MB): only tools/build_assets.py needs them; the game uses assets/.
+Assets Fnaf/
+node_modules/
+__pycache__/
